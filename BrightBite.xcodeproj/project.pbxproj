@@ -400,6 +400,9 @@
 				DEVELOPMENT_TEAM = 786598J36T;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "BrightBite uses the camera to scan food with ChewCheck and dentist notes for your treatment plan.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "BrightBite may use the microphone for voice input in chat with DentalBot.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "BrightBite accesses your photo library to let you select food photos for ChewCheck analysis.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -432,6 +435,9 @@
 				DEVELOPMENT_TEAM = 786598J36T;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "BrightBite uses the camera to scan food with ChewCheck and dentist notes for your treatment plan.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "BrightBite may use the microphone for voice input in chat with DentalBot.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "BrightBite accesses your photo library to let you select food photos for ChewCheck analysis.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
