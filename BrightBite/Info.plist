@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>GoogleSignIn</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.47383675293-ae4itbrbsmtovu8gbsmav98tjgdvapgj</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>BrightBite needs camera access to scan dental notes and documents from your dentist.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>BrightBite needs calendar access to automatically add dental appointments from scanned notes.</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+	<string>BrightBite needs calendar access to add dental appointments to your calendar.</string>
+</dict>
+</plist>

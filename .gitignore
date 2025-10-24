@@ -1,0 +1,50 @@
+# Environment variables - NEVER commit these!
+.env
+.env.local
+.env.production  
+.env.development
+
+# API Keys and secrets
+*.key
+*.pem
+secrets.json
+config.json
+python_backend/.env
+GoogleService-Info.plist
+
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcodeproj/**/xcshareddata/xcschemes/*.xcscheme
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+python_backend/venv/
+*.log
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/.env
