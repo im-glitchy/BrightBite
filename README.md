@@ -180,10 +180,6 @@ OPENAI_API_KEY=your_openai_api_key_here
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is private and proprietary.
-
 ## Contact
 
 Tuan Nguyen - [@im-glitchy](https://github.com/im-glitchy)
