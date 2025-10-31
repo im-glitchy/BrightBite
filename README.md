@@ -2,6 +2,8 @@
 
 A comprehensive iOS dental care app built with SwiftUI, featuring AI-powered food scanning, pain tracking, and treatment plan management.
 
+#AI Usage: Claude created ReadME + set up root directory (with no code) using MVVM.
+
 ## Features
 
 ### 🔍 ChewCheck - AI Food Scanner
